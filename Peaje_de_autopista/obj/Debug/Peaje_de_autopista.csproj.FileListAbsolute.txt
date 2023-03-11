@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\bin\Debug\Peaje_de_autopista.exe.config
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\bin\Debug\Peaje_de_autopista.exe
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\bin\Debug\Peaje_de_autopista.pdb
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\obj\Debug\Peaje_de_autopista.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\obj\Debug\Peaje_de_autopista.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\obj\Debug\Peaje_de_autopista.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\obj\Debug\Peaje_de_autopista.exe
+C:\Users\USER\Desktop\Peaje_de_autopista\Peaje_de_autopista\obj\Debug\Peaje_de_autopista.pdb
